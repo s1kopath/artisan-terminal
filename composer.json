@@ -1,0 +1,16 @@
+{
+    "name": "s1kopath/artisan-terminal",
+    "description": "A simple Artisan command terminal for Laravel projects.",
+    "autoload": {
+        "psr-4": {
+            "S1kopath\\ArtisanTerminal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md Asaduzzaman",
+            "email": "asaduzzaman.arob@gmail.com"
+        }
+    ],
+    "require": {}
+}
