@@ -82,7 +82,7 @@ event:clear
 
 storage:link
 
-about
+migrate
 
 schedule:run
 
